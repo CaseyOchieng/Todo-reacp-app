@@ -13,8 +13,8 @@ Our platform is designed to be intuitive and user-friendly, so you can focus on 
 
 ## Functionality
 - Register/Login: Users should be able to create an account or log in to the application to use its features.
-- Add ToDos: Users can add a new ToDos by uploading an image and providing a title and description.
-- View My Todos: Users can view all the ToDoss they have added.
+- Add ToDos: Users can add a new ToDos by a title and description.
+- View My To do : Users can view all the ToDoss they have added.
 - View All ToDoss: Users can view all the ToDoss available in the application.
 - Search ToDos: Users can search for a ToDos by its title or date published.
 - Edit tasks: Users can update the details of a ToDos they added.
