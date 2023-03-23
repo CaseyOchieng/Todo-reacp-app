@@ -1,34 +1,70 @@
-# TODO Application
-Welcome to our task management website! Our platform is a user-friendly and intuitive tool designed to help you keep track of your tasks and stay organized, no matter how busy your life gets.
+# Getting Started with Create React App
 
-- Creating an account is quick and easy. Simply click on the "Sign Up" button and fill in your information. Once you have created your account, you will have access to all of our features, including the ability to create, update, and delete tasks.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- To create a new task, click on the "New Task" button and enter the necessary details. You can set a due date, assign a priority level, and add any additional notes or attachments you need to keep track of.
+## Available Scripts
 
-- Updating a task is just as simple. Click on the task you want to edit and make any necessary changes. You can update the due date, priority level, and any other details as needed.
+In the project directory, you can run:
 
-- If you no longer need a task on your list, you can easily delete it by clicking on the task and selecting "Delete". This will remove the task from your list and free up space for new tasks.
+### `npm start`
 
-Our platform is built with Node.js for the back-end, and HTML, CSS, JavaScript, and React for the front-end.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Functionality
-- Register/Login: Users should be able to create an account or log in to the application to use its features.
-- Add ToDos: Users can add a new ToDos by a title and description.
-- View My To do : Users can view all the ToDoss they have added.
-- View All ToDoss: Users can view all the ToDoss available in the application.
-- Search ToDos: Users can search for a ToDos by its title or date published.
-- Edit tasks: Users can update the details of a ToDos they added.
-- Delete ToDos: Users can remove the details of ToDoss they added.
-- Access Control: Users cannot update or delete ToDoss they have not added. In order to use the application, the user must be logged in.
-## Technology Stack
-- Front-end: HTML, CSS, JavaScript, and React
-- Back-end: Node.js
-## Getting Started
-1. Clone the repository to your local machine.[Click here to fork](https://github.com/CaseyOchieng/Todo-reacp-app)
-2. Navigate to the project directory in the terminal and run `npm install` to install the dependencies.
-3. Start the server by running `npm start` server
-4. Access the application at `http://localhost:3000`.
-## Contributors
-- [Casey Ochieng](https://github.com/CaseyOchieng) - Full Stack Developer
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
